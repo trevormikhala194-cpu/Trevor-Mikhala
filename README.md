@@ -88,12 +88,12 @@ A practical guide for diagnosing and fixing common network problems.
 * AI application development
 * Cloud computing fundamentals
 
-## 🎯 Career Goals
+## Career Goals
 
 My goal is to become a **skilled software developer and network engineer**, building intelligent systems and reliable network infrastructure.
 
 
-## 📫 Contact
+## Contact
 
 Email: trevormikhala194@gmail.com
 
