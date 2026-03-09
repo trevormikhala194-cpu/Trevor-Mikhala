@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Trevor Mikhala
+# Hi, I'm Trevor Mikhala
 
 Bachelor of Computer Technology Student
 Python Developer | AI Applications | Linux | Networking
